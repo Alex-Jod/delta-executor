@@ -23,12 +23,12 @@ Delta Executor is a powerful and efficient script execution engine designed for 
 ## Installation
 
 ### For Android
-1. Download the latest **Delta Executor APK** from the [Releases](#) section.
+1. Download the latest **Delta Executor APK** from the [Releases](https://github.com/Alex-Jod/delta-executor/releases) section.
 2. Enable installation from unknown sources in your device settings.
 3. Install the app and launch Delta Executor.
 
 ### For iOS
-1. Download the **Delta Executor iOS App** from the [Releases](#) section.
+1. Download the **Delta Executor iOS App** from the [Releases](https://github.com/Alex-Jod/delta-executor/releases) section.
 2. Follow the installation guide provided in the download package.
 3. Launch the app and start using Delta Executor.
 
